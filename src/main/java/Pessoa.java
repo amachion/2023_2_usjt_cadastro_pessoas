@@ -136,6 +136,9 @@ public class Pessoa {
         }
         return achou;
     }
+    public void hello () {
+        System.out.println ("oi");
+    }
   
 }
 
